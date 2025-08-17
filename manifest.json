@@ -1,0 +1,19 @@
+{
+  "name": "완엔지니어링 - 전기·통신·소방설계 전문기업",
+  "short_name": "완엔지니어링",
+  "description": "30년 경력의 전기설계, 통신설계, 소방설계 전문기업 완엔지니어링입니다.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "ko"
+}
